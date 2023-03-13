@@ -1,5 +1,6 @@
 # 75-Hard-Challenge
 This is an App that helps you stay on track for the 75 Hard Challenge. 
+
 RULES of the Challenge:
 1. Upload a progress picture everyday
 2. Do 2x 45 min workouts(1 must be outdoors)
